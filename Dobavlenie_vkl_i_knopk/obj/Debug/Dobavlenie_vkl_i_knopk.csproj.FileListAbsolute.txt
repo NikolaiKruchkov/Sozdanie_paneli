@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 5.3\Dobavlenie_vkl_i_knopk\Dobavlenie_vkl_i_knopk\bin\Debug\Dobavlenie_vkl_i_knopk.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 5.3\Dobavlenie_vkl_i_knopk\Dobavlenie_vkl_i_knopk\bin\Debug\Dobavlenie_vkl_i_knopk.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 5.3\Dobavlenie_vkl_i_knopk\Dobavlenie_vkl_i_knopk\obj\Debug\Dobavlenie_vkl_i_knopk.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 5.3\Dobavlenie_vkl_i_knopk\Dobavlenie_vkl_i_knopk\obj\Debug\Dobavlenie_vkl_i_knopk.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 5.3\Dobavlenie_vkl_i_knopk\Dobavlenie_vkl_i_knopk\obj\Debug\Dobavlenie_vkl_i_knopk.pdb

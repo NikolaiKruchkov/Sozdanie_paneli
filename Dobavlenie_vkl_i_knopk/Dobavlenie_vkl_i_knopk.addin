@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitAPITrainingRibbon</Name>
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Dobavlenie_vkl_i_knopk.dll"</Assembly>		
+		<AddInId>0A69DC50-C723-468F-961A-BAF31428347E</AddInId>		
+		<FullClassName>Dobavlenie_vkl_i_knopk.Main</FullClassName>
+		<VendorId>ADSK</VendorId>		
+	</AddIn>
+</RevitAddIns>
